@@ -20,7 +20,7 @@ builder.Services.AddSwaggerGen(c => {
     c.IncludeXmlComments(xmlPath);
     });
 
-
+//guga
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
